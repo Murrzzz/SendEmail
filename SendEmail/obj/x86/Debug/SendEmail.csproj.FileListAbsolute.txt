@@ -1,0 +1,7 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\SendEmail\SendEmail\bin\Debug\SendEmail.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\SendEmail\SendEmail\bin\Debug\SendEmail.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\SendEmail\SendEmail\obj\x86\Debug\SendEmail.Form1.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\SendEmail\SendEmail\obj\x86\Debug\SendEmail.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\SendEmail\SendEmail\obj\x86\Debug\SendEmail.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\SendEmail\SendEmail\obj\x86\Debug\SendEmail.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\SendEmail\SendEmail\obj\x86\Debug\SendEmail.pdb
